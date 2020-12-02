@@ -1,0 +1,13 @@
+{
+"companyName": "CuteLiu Development",
+"productName": "CuteLiu Online Playground!",
+"dataUrl": "CL Online Playground build.data.unityweb",
+"wasmCodeUrl": "CL Online Playground build.wasm.code.unityweb",
+"wasmFrameworkUrl": "CL Online Playground build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CL Online Playground build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
